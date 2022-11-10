@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
@@ -97,3 +98,10 @@
         
     </channel>
 </rss>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Peter Lymo</title><link>https://peterlymo.github.io/</link><description>Recent content on Peter Lymo</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 17:57:44 +0300</lastBuildDate><atom:link href="https://peterlymo.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Writeup</title><link>https://peterlymo.github.io/p/writeup/</link><pubDate>Thu, 10 Nov 2022 17:57:44 +0300</pubDate><guid>https://peterlymo.github.io/p/writeup/</guid><description>testing hugo blog</description></item><item><title>Archives</title><link>https://peterlymo.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://peterlymo.github.io/archives/</guid><description/></item><item><title>About</title><link>https://peterlymo.github.io/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://peterlymo.github.io/about/</guid><description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description></item><item><title>Links</title><link>https://peterlymo.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://peterlymo.github.io/links/</guid><description>To use this feature, add links section to frontmatter.
+This page&amp;rsquo;s frontmatter:
+1 2 3 4 5 6 7 8 9 links: - title: GitHub description: GitHub is the world&amp;#39;s largest software development platform. website: https://github.com image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png - title: TypeScript description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. website: https://www.typescriptlang.org image: ts-logo-128.jpg image field accepts both local and external images.</description></item><item><title>Search</title><link>https://peterlymo.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://peterlymo.github.io/search/</guid><description/></item></channel></rss>
+>>>>>>> af3b6f834025ea73bbbb3f37fe5212cc0f80b1ad
