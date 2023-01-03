@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://peterlymo.github.io/</loc>
-    <lastmod>2022-11-10T17:57:44+03:00</lastmod>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.github.io/about-me/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.github.io/page/</loc>
+    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://peterlymo.github.io/post/</loc>
     <lastmod>2022-11-10T17:57:44+03:00</lastmod>
@@ -13,12 +19,6 @@
   </url><url>
     <loc>https://peterlymo.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.github.io/page/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.github.io/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://peterlymo.github.io/categories/</loc>
   </url><url>
