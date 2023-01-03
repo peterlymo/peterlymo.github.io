@@ -1,13 +1,13 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: About Me
+description: Everything About Me
+date: '2022-12-05'
 aliases:
-  - about-us
-  - about-hugo
+  - about
+  - about-me
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-01-03'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,14 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hi, my name is Peter Lymo (malwarepeter) and I am currently a software engineering student at the University of Dodoma. In addition to my studies, I am also a cyber security enthusiast and bug bounty hunter.
 
-Hugo makes use of a variety of open source projects including:
+I have always had a strong interest in technology and how it can be used to improve people's lives. As a software engineering student, I am learning the skills and knowledge needed to design, develop, and maintain complex software systems.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+In my spare time, I like to stay up-to-date on the latest cyber security trends and techniques. I have participated in several bug bounty programs, where I have helped companies identify and fix vulnerabilities in their systems.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I am passionate about using my skills and expertise to make a positive impact on the world, and I am always looking for new opportunities to learn and grow as a professional.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Thank you for reading my "About Me" article. If you have any questions or would like to connect, feel free to reach out to me via my social media profiles or email.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Contact Me on [Email me](mailto:peterlymo@gmail.com?subject=Hello%20Peter%20Lymo&body=Hello%2C%0A%0AI%20hope%20this%20email%20finds%20you%20well.%0A%0A)
