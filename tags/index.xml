@@ -5,6 +5,31 @@
         <link>https://peterlymo.github.io/tags/</link>
         <description>Recent content in Tags on Peter Lymo</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://peterlymo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Tue, 03 Jan 2023 13:00:47 +0300</lastBuildDate><atom:link href="https://peterlymo.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2022</title>
+        <link>https://peterlymo.github.io/tags/2022/</link>
+        <pubDate>Tue, 03 Jan 2023 13:00:47 +0300</pubDate>
+        
+        <guid>https://peterlymo.github.io/tags/2022/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>CTF</title>
+        <link>https://peterlymo.github.io/tags/ctf/</link>
+        <pubDate>Tue, 03 Jan 2023 13:00:47 +0300</pubDate>
+        
+        <guid>https://peterlymo.github.io/tags/ctf/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Writeup</title>
+        <link>https://peterlymo.github.io/tags/writeup/</link>
+        <pubDate>Tue, 03 Jan 2023 13:00:47 +0300</pubDate>
+        
+        <guid>https://peterlymo.github.io/tags/writeup/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
