@@ -6,9 +6,6 @@ tags: ["CTF", "Writeup", "2022"]
 categories: ["writeup", "CTF"]
 ---
 
-
-
-
 UDOM CTF 2022 was an exciting end-of-the-year event for all cyber security enthusiasts! Taking place from December 31st to January 1st, this Capture the Flag (CTF) competition is a chance for participants to test their skills and knowledge against some of the best in the industry.
 
 The UDOM CTF is organized by the University of Dodoma Cyber Security Club, and it was open to anyone who is interested in participating. Whether you are a seasoned CTF veteran or a beginner looking to learn more about cyber security, there was a place for you at this event.
@@ -18,14 +15,12 @@ Here are some writeups/solutionsof some challenges i created
 
 # web challenge
 ---
-##  wRCeb
+## wRCeb
 
 ---
 
 
-![image alt text](img/20230103111546.png)
-
-
+![image alt text](../20230103111546.png)
 
 challenge called wRCeb as hint from the challenge name it was about some RCE, so lets open the page, we go some word it 
 
@@ -36,20 +31,18 @@ This page includes a link to JavaScript file
 ```
 
 
-![image alt text](img/20230103111435.png)
+![image alt text](../20230103111435.png)
 
 
 checking the ssource code
 
-![image alt text](img/20230103111922.png)
-
+![image alt text](../20230103111922.png)
 
 we found
 
 ```
   <script src="/scripts/main.js"></script>
 ```
-
 
 checking inside main.js
 
@@ -94,7 +87,7 @@ get the flag
 
 
 
-![image alt text](img/20230103113410.png)
+![image alt text](20230103113410.png)
 
 
 a challenge name is wINJe, could be an injection?, well lets open the page
@@ -111,7 +104,7 @@ well seem there some parameter pass via GET,
 
 lets see robots.txt, You can get by bruteforce the directory or use common sense since robots.txt is too common on website so when you play ctf like you should consider to check it directly
 
-![image alt text](img/20230103113825.png)
+![image alt text](20230103113825.png)
 
 
 there some comment about 
@@ -182,7 +175,7 @@ you will get code execution
 
 
 
-![image alt text](img/20230103115149.png)
+![image alt text](20230103115149.png)
 
 
 get the flag!!
@@ -193,7 +186,7 @@ get the flag!!
 ## Dr Khan
 ---
 
-![image alt text](img/20230103115510.png)
+![image alt text](20230103115510.png)
 
 
 esy steg but got no solve, ehh seems peole dont wanna make old tool work 
@@ -215,7 +208,7 @@ seems like kind DNA sequence
 
 if youre lazy you can take advantage of chatGPT and ask her
 
-![image alt text](img/20230103120132.png)
+![image alt text](20230103120132.png)
 
 how to exploit
 ---
@@ -251,7 +244,7 @@ ubuntu@udomctf:~/stegsol$
 once opened then nothing there
 
 
-![image alt text](img/20230103121010.png)
+![image alt text](20230103121010.png)
 
 
 well just highlight all with ctrl + A , and copy to textpad , you will get the flag
@@ -263,7 +256,7 @@ boom!!
 ## B0rn
 ---
 
-![image alt text](img/20230103121744.png)
+![image alt text](20230103121744.png)
 
 
 GOT 0 solve too, but was easy if you follow the train properly,
@@ -289,14 +282,14 @@ Help Help
 ```
 
 but if you are loking for cookie you will
-![image alt text](img/20230103122756.png)
+![image alt text](20230103122756.png)
 
 
 then change admin cookie value from **false** to **true** and save then refresh the page
 
 you will get a new year image 
 
-![image alt text](img/20230103122944.png)
+![image alt text](20230103122944.png)
 
 
 check source code
@@ -321,12 +314,12 @@ by going to https://what3words.com/emulating.modifies.speech
 
 you get
 
-![image alt text](img/20230103123443.png)
+![image alt text](20230103123443.png)
 
 
 zoom
 
-![image alt text](img/20230103123513.png)
+![image alt text](20230103123513.png)
 
 
 malwarepeter was born at Muhimbili, 
