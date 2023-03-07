@@ -2,7 +2,7 @@
 title: "Nahamcon CTF 2022"
 date: 2019-03-10
 # weight: 1
-# aliases: ["/first"]
+aliases: ["/naham-ctf-2022"]
 # tags: ["first"]
 author: "Peter Lymo"
 # author: ["Me", "You"] # multiple authors
