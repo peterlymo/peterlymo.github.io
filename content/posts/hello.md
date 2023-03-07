@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-# date: "1994-07-29"
+date: 1994-07-29
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
