@@ -1,6 +1,6 @@
 ---
 title: "Nahamcon CTF 2022"
-date: 2020-09-15T11:30:03+00:00
+date: "2023-03-10"
 # weight: 1
 # aliases: ["/first"]
 # tags: ["first"]
