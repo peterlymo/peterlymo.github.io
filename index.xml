@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Lymo&#39;s Blog</title>
-    <link>https://peterlymo.com/</link>
+    <link>https://peterlymo.github.io/</link>
     <description>Recent content on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://peterlymo.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://peterlymo.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>https://peterlymo.com/archives/</link>
+      <link>https://peterlymo.github.io/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://peterlymo.com/archives/</guid>
+      <guid>https://peterlymo.github.io/archives/</guid>
       <description>archives</description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>https://peterlymo.com/search/</link>
+      <link>https://peterlymo.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://peterlymo.com/search/</guid>
+      <guid>https://peterlymo.github.io/search/</guid>
       <description>search</description>
     </item>
     

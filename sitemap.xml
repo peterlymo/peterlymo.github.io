@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peterlymo.com/archives/</loc>
+    <loc>https://peterlymo.github.io/archives/</loc>
   </url><url>
-    <loc>https://peterlymo.com/categories/</loc>
+    <loc>https://peterlymo.github.io/categories/</loc>
   </url><url>
-    <loc>https://peterlymo.com/</loc>
+    <loc>https://peterlymo.github.io/</loc>
   </url><url>
-    <loc>https://peterlymo.com/search/</loc>
+    <loc>https://peterlymo.github.io/search/</loc>
   </url><url>
-    <loc>https://peterlymo.com/tags/</loc>
+    <loc>https://peterlymo.github.io/tags/</loc>
   </url>
 </urlset>
