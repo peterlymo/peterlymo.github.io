@@ -4,20 +4,12 @@
     <title>Posts on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/posts/</link>
     <description>Recent content in Posts on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://peterlymo.com/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://peterlymo.com/posts/hello/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://peterlymo.com/posts/hello/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://peterlymo.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nahamcon CTF 2022</title>
       <link>https://peterlymo.com/writeup/nahamcon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://peterlymo.com/writeup/nahamcon/</guid>
       <description>THE COMPETITION ORGANIZED BY JOHN HAMMOND WITH MANY SPONSORS
@@ -27,6 +19,15 @@ solution
 i downloaded a png file and i can see a john Hammond pic and some stock values but the discription saying &amp;ldquo;Rising rising in height&amp;rdquo; so what if i increase the height of picture?
 using tweak png to edit image height
 then boom!!! we get flag</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://peterlymo.com/posts/hello/</link>
+      <pubDate>Fri, 29 Jul 1994 00:00:00 +0000</pubDate>
+      
+      <guid>https://peterlymo.com/posts/hello/</guid>
+      <description></description>
     </item>
     
   </channel>
