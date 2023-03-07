@@ -6,6 +6,7 @@ date: 2020-09-15T11:30:03+00:00
 # tags: ["first"]
 author: "Peter Lymo"
 # author: ["Me", "You"] # multiple authors
+url: "/writeup/nahamcon/"
 showToc: true
 TocOpen: false
 draft: false
