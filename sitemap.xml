@@ -2,18 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peterlymo.com/posts/hello/</loc>
-    <lastmod>1994-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.com/</loc>
-    <lastmod>1994-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.com/posts/</loc>
-    <lastmod>1994-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://peterlymo.com/archives/</loc>
   </url><url>
     <loc>https://peterlymo.com/categories/</loc>
+  </url><url>
+    <loc>https://peterlymo.com/posts/hello/</loc>
+  </url><url>
+    <loc>https://peterlymo.com/writeup/nahamcon/</loc>
+  </url><url>
+    <loc>https://peterlymo.com/</loc>
+  </url><url>
+    <loc>https://peterlymo.com/posts/</loc>
   </url><url>
     <loc>https://peterlymo.com/search/</loc>
   </url><url>
