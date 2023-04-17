@@ -1,12 +1,12 @@
 ---
-title: "UNODC Digital Forensic Africa [ Android Forensics - Week One]"
-date: 2023-03-18T14:01:40+01:00
+title: "UNODC Digital Forensic Africa [ Android - Week One]"
+date: "2023-03-18T21:10:00+07:00"
 # weight: 1
 # aliases: ["/first"]
 tags: ["CTF", "writeup","Android", "forensic"]
 author: "Peter Lymo"
 # author: ["Me", "You"] # multiple authors
-showToc: true
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
@@ -24,14 +24,20 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
-editPost:
-    URL: "https://github.com/peterlymo/peterlymo.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+# cover:
+#     image: "<image path/url>" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     hidden: true # only hide on current single page
+# editPost:
+#     URL: "https://github.com/peterlymo/peterlymo.github.io/content"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true # to append file path to Edit link
 ---
+
+Hello this is my writeup fo UNODC
+
+testing img
+
+![test](img/WK01.jpg)
