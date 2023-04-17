@@ -5,22 +5,7 @@
     <link>https://peterlymo.com/</link>
     <description>Recent content on Peter Lymo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://peterlymo.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nahamcon CTF 2022</title>
-      <link>https://peterlymo.com/writeup/nahamcon/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://peterlymo.com/writeup/nahamcon/</guid>
-      <description>THE COMPETITION ORGANIZED BY JOHN HAMMOND WITH MANY SPONSORS
-CHALLENGES JOHNKS Name Points Authored By johnks 500 birch#9901 Description
-This is Forensic challenge
-solution
-i downloaded a png file and i can see a john Hammond pic and some stock values but the discription saying &amp;ldquo;Rising rising in height&amp;rdquo; so what if i increase the height of picture?
-using tweak png to edit image height
-then boom!!! we get flag</description>
-    </item>
-    
+    <lastBuildDate>Fri, 29 Jul 1994 00:00:00 +0000</lastBuildDate><atom:link href="https://peterlymo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
       <link>https://peterlymo.com/posts/hello/</link>
