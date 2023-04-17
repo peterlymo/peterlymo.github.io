@@ -4,6 +4,43 @@
     <title>Tags on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/tags/</link>
     <description>Recent content in Tags on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://peterlymo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Mar 2023 14:01:40 +0100</lastBuildDate><atom:link href="https://peterlymo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>https://peterlymo.com/tags/android/</link>
+      <pubDate>Sat, 18 Mar 2023 14:01:40 +0100</pubDate>
+      
+      <guid>https://peterlymo.com/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CTF</title>
+      <link>https://peterlymo.com/tags/ctf/</link>
+      <pubDate>Sat, 18 Mar 2023 14:01:40 +0100</pubDate>
+      
+      <guid>https://peterlymo.com/tags/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forensic</title>
+      <link>https://peterlymo.com/tags/forensic/</link>
+      <pubDate>Sat, 18 Mar 2023 14:01:40 +0100</pubDate>
+      
+      <guid>https://peterlymo.com/tags/forensic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writeup</title>
+      <link>https://peterlymo.com/tags/writeup/</link>
+      <pubDate>Sat, 18 Mar 2023 14:01:40 +0100</pubDate>
+      
+      <guid>https://peterlymo.com/tags/writeup/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
