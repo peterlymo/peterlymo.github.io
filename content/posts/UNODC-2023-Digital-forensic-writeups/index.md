@@ -38,7 +38,7 @@ today am going to show you i solved a week one of Africa Digital forensic Compet
 
 here we go 
 
-![img1](img/cover2.png)
+![img1](img/post-cover.png)
 
 ## HashPotatos - (2 pts)
 
