@@ -12,8 +12,11 @@
       <pubDate>Sat, 18 Mar 2023 21:10:00 +0700</pubDate>
       
       <guid>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</guid>
-      <description>Hello this is my writeup fo UNODC
-testing img</description>
+      <description>Hi, today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME
+here we go
+HashPotatos - (2 pts) What is the SHA256 hash of the compressed Android data? answer: aeb95fe9ed2dabefef786c3dc620b0cd92255476c7a9be01049cb05d995a39f9
+walkthrough : using sha256sum
+EZTZ (5 pts) What time zone was the phone set to?</description>
     </item>
     
   </channel>
