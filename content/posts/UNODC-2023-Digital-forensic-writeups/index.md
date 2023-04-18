@@ -4,33 +4,23 @@ date: "2023-03-18T21:10:00+07:00"
 tags: ["CTF", "writeup","Android", "forensic"]
 author: "Peter Lymo"
 showToc: true
-TocOpen: false
-draft: false
-hidemeta: false
-comments: false
 description: "Africa Digital Forensic Competition"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
-disableShare: false
 disableHLJS: false
-hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-cover:
-    image: "img/post-cover.png" # image path/url
-    alt: "cover" # alt text
-    caption: "UNODC" # display caption under cover
-    relative: true # when using page bundles set this to true
-    # hidden: true # only hide on current single page
-# editPost:
-#     URL: "https://github.com/peterlymo/peterlymo.github.io/content"
-#     Text: "Suggest Changes" # edit text
-#     appendFilePath: true # to append file path to Edit link
+thumbnails: "img/post-cover.png"
+images: ["img/post-cover.png"]
+# cover:
+#     image: "img/post-cover.png" # image path/url
+#     alt: "cover" # alt text
+#     caption: "UNODC" # display caption under cover
+#     relative: true # when using page bundles set this to true
+#     # hidden: true # only hide on current single page
 ---
 
 **Hi**,

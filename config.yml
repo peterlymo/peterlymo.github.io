@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Peter Lymo
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["img/post-cover.png"]
   DateFormat: "02 Jan 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
