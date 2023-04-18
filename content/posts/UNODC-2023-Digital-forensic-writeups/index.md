@@ -3,8 +3,6 @@ title: "UNODC Digital Forensic Africa Writeup [ Android - Week One]"
 date: "2023-03-18T21:10:00+07:00"
 tags: ["CTF", "writeup","Android", "forensic"]
 author: "Peter Lymo"
-images: 
-- img/post-cover.png
 showToc: true
 TocOpen: false
 draft: false
@@ -23,12 +21,12 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# cover:
-#     image: "<image path/url>" # image path/url
-#     alt: "<alt text>" # alt text
-#     caption: "<text>" # display caption under cover
-#     relative: false # when using page bundles set this to true
-#     hidden: true # only hide on current single page
+cover:
+    image: "img/pos-cover.png" # image path/url
+    alt: "cover" # alt text
+    caption: "UNODC" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: true # only hide on current single page
 # editPost:
 #     URL: "https://github.com/peterlymo/peterlymo.github.io/content"
 #     Text: "Suggest Changes" # edit text
