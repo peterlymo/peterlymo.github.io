@@ -40,6 +40,9 @@ UseHugoToc: true
 today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME
 
 here we go 
+
+![img1](img/cover2.png)
+
 ## HashPotatos - (2 pts)
 
 What is the SHA256 hash of the compressed Android data?
