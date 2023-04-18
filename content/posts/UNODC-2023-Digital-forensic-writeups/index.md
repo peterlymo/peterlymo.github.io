@@ -1,14 +1,11 @@
 ---
 title: "UNODC Digital Forensic Africa Writeup [ Android - Week One]"
 date: "2023-03-18T21:10:00+07:00"
-# weight: 1
-# aliases: ["/first"]
 tags: ["CTF", "writeup","Android", "forensic"]
 author: "Peter Lymo"
-# author: ["Me", "You"] # multiple authors
 images: 
-- "img/cover2.png"
-showToc: false
+- img/post-cover.png
+showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
