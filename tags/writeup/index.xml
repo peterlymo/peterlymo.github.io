@@ -5,7 +5,19 @@
     <link>https://peterlymo.com/tags/writeup/</link>
     <description>Recent content in writeup on Peter Lymo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Mar 2023 21:10:00 +0700</lastBuildDate><atom:link href="https://peterlymo.com/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Jun 2023 21:43:38 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NahamCon CTF 2023 Writeups | Android Mobile</title>
+      <link>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</link>
+      <pubDate>Sat, 17 Jun 2023 21:43:38 +0300</pubDate>
+      
+      <guid>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</guid>
+      <description>Hi I participated in the NahamCon CTF 2023 and dedicated some time over the weekend to solve several interesting questions. Here, I would like to share a few of the intriguing questions that I was able to solve
+Android | Mobile JNInjaspeak We are all very familiar with Leetspeak, can you crack the code on how JNInjaspeak works
+walkthrough : its android App, open it , type a word, it get converted into special characters</description>
+    </item>
+    
     <item>
       <title>UNODC Digital Forensic Africa Writeup [ Android - Week One]</title>
       <link>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</link>
