@@ -22,7 +22,7 @@ _testmain.go
 *.exe
 *.test
 
-public
+
 themes
 resources
 
