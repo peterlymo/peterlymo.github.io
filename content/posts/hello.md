@@ -38,4 +38,3 @@ UseHugoToc: false
 
 its Now or NEVER
 
-![img1](img/post-cover.png)
