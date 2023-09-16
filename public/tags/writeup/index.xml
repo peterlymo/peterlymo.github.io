@@ -10,7 +10,16 @@
       <link>https://peterlymo.com/img/post-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Sep 2023 20:25:26 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Try Hack Me - IGNITE Writeup</title>
+      <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
+      <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
+      
+      <guid>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</guid>
+      <description>Try Hack Me - IGNITE Writeup</description>
+    </item>
+    
     <item>
       <title>Try Hack Me - IDE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ide-writeup/</link>

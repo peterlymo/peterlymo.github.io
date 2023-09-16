@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Linux on Peter Lymo&#39;s Blog</title>
-    <link>https://peterlymo.com/tags/linux/</link>
-    <description>Recent content in Linux on Peter Lymo&#39;s Blog</description>
+    <title>ruby on Peter Lymo&#39;s Blog</title>
+    <link>https://peterlymo.com/tags/ruby/</link>
+    <description>Recent content in ruby on Peter Lymo&#39;s Blog</description>
     <image>
       <title>Peter Lymo&#39;s Blog</title>
       <url>https://peterlymo.com/img/post-cover.png</url>
       <link>https://peterlymo.com/img/post-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Try Hack Me - IGNITE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</guid>
       <description>Try Hack Me - IGNITE Writeup</description>
-    </item>
-    
-    <item>
-      <title>Try Hack Me - IDE Writeup</title>
-      <link>https://peterlymo.com/posts/try-hack-me-ide-writeup/</link>
-      <pubDate>Fri, 15 Sep 2023 20:25:26 +0300</pubDate>
-      
-      <guid>https://peterlymo.com/posts/try-hack-me-ide-writeup/</guid>
-      <description>Try Hack Me- IDE Writeup</description>
     </item>
     
   </channel>
