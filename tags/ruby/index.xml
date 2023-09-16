@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on Peter Lymo&#39;s Blog</title>
+    <link>https://peterlymo.com/tags/ruby/</link>
+    <description>Recent content in ruby on Peter Lymo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Try Hack Me - IGNITE Writeup</title>
+      <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
+      <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
+      
+      <guid>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</guid>
+      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.
+recon nmap found one port,80
+┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
+    </item>
+    
+  </channel>
+</rss>
