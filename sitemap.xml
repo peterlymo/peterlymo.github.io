@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peterlymo.com/tags/africa/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.com/tags/ctf/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.com/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.com/posts/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.com/tags/pyjail/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
+    <loc>https://peterlymo.com/tags/</loc>
+    <lastmod>2023-09-25T18:25:38+03:00</lastmod>
+  </url><url>
     <loc>https://peterlymo.com/tags/linux/</loc>
     <lastmod>2023-09-16T20:54:55+03:00</lastmod>
   </url><url>
-    <loc>https://peterlymo.com/</loc>
-    <lastmod>2023-09-16T20:54:55+03:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.com/posts/</loc>
-    <lastmod>2023-09-16T20:54:55+03:00</lastmod>
-  </url><url>
     <loc>https://peterlymo.com/tags/ruby/</loc>
-    <lastmod>2023-09-16T20:54:55+03:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.com/tags/</loc>
     <lastmod>2023-09-16T20:54:55+03:00</lastmod>
   </url><url>
     <loc>https://peterlymo.com/tags/thm/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2023-09-15T20:25:26+03:00</lastmod>
   </url><url>
     <loc>https://peterlymo.com/tags/android/</loc>
-    <lastmod>2023-06-17T21:43:38+03:00</lastmod>
-  </url><url>
-    <loc>https://peterlymo.com/tags/ctf/</loc>
     <lastmod>2023-06-17T21:43:38+03:00</lastmod>
   </url><url>
     <loc>https://peterlymo.com/tags/forensic/</loc>

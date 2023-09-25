@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Peter Lymo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 18:25:38 +0300</lastBuildDate><atom:link href="https://peterlymo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Olympics Africa - Pyjails Writeup</title>
+      <link>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</link>
+      <pubDate>Mon, 25 Sep 2023 18:25:38 +0300</pubDate>
+      
+      <guid>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</guid>
+      <description>Hi, on weekend i got time participate for Cyber Olympics Africa, which is continental annual competition that designed to address the cybersecurity skills gap and digital divide that persist in Africa, while helping the continent grow its status as an emerging technology hub.We ended up in the top 10 and are now prepared for the final.
+Jail Break its actually a python sandbox escape challenge, for such challenge goal is to find way to execute system commands in order to find a flag</description>
+    </item>
+    
     <item>
       <title>Try Hack Me - IGNITE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
@@ -30,7 +40,7 @@ Recon nmap got 4 ports, 21,22,80,62337
     </item>
     
     <item>
-      <title>NahamCon CTF 2023 Writeups | Android Mobile</title>
+      <title>NahamCon CTF 2023 Writeups - Android Mobile</title>
       <link>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</link>
       <pubDate>Sat, 17 Jun 2023 21:43:38 +0300</pubDate>
       
@@ -41,7 +51,7 @@ walkthrough : its android App, open it , type a word, it get converted into spec
     </item>
     
     <item>
-      <title>UNODC Digital Forensic Africa Writeup [ Android - Week One]</title>
+      <title>UNODC Digital Forensic - Africa Writeup [ Android - Week One]</title>
       <link>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:00 +0700</pubDate>
       

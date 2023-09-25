@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pyjail on Peter Lymo&#39;s Blog</title>
+    <link>https://peterlymo.com/tags/pyjail/</link>
+    <description>Recent content in Pyjail on Peter Lymo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Sep 2023 18:25:38 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/pyjail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Olympics Africa - Pyjails Writeup</title>
+      <link>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</link>
+      <pubDate>Mon, 25 Sep 2023 18:25:38 +0300</pubDate>
+      
+      <guid>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</guid>
+      <description>Hi, on weekend i got time participate for Cyber Olympics Africa, which is continental annual competition that designed to address the cybersecurity skills gap and digital divide that persist in Africa, while helping the continent grow its status as an emerging technology hub.We ended up in the top 10 and are now prepared for the final.
+Jail Break its actually a python sandbox escape challenge, for such challenge goal is to find way to execute system commands in order to find a flag</description>
+    </item>
+    
+  </channel>
+</rss>
