@@ -1,5 +1,5 @@
 ---
-title: "NahamCon CTF 2023 Writeups | Android Mobile"
+title: "NahamCon CTF 2023 Writeups - Android Mobile"
 date: 2023-06-17T21:43:38+03:00
 tags: ["CTF", "writeup","Android", "forensic"]
 author: "Peter Lymo"

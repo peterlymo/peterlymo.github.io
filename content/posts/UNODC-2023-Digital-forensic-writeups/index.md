@@ -1,5 +1,5 @@
 ---
-title: "UNODC Digital Forensic Africa Writeup [ Android - Week One]"
+title: "UNODC Digital Forensic - Africa Writeup [ Android - Week One]"
 date: "2023-03-18T21:10:00+07:00"
 tags: ["CTF", "writeup","Android", "forensic"]
 author: "Peter Lymo"
