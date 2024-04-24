@@ -4,73 +4,51 @@
     <title>Posts on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/posts/</link>
     <description>Recent content in Posts on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 18:25:38 +0300</lastBuildDate><atom:link href="https://peterlymo.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 18:25:38 +0300</lastBuildDate>
+    <atom:link href="https://peterlymo.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber Olympics Africa - Pyjails Writeup</title>
       <link>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</link>
       <pubDate>Mon, 25 Sep 2023 18:25:38 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/cyber-olympics-africa-pyjails-writeup/</guid>
-      <description>Hi, on weekend i got time participate for Cyber Olympics Africa, which is continental annual competition that designed to address the cybersecurity skills gap and digital divide that persist in Africa, while helping the continent grow its status as an emerging technology hub.We ended up in the top 10 and are now prepared for the final.
-Jail Break its actually a python sandbox escape challenge, for such challenge goal is to find way to execute system commands in order to find a flag</description>
+      <description>Hi, on weekend i got time participate for Cyber Olympics Africa, which is continental annual competition that designed to address the cybersecurity skills gap and digital divide that persist in Africa, while helping the continent grow its status as an emerging technology hub.We ended up in the top 10 and are now prepared for the final.&#xA;Jail Break its actually a python sandbox escape challenge, for such challenge goal is to find way to execute system commands in order to find a flag</description>
     </item>
-    
     <item>
       <title>Try Hack Me - IGNITE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
       <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</guid>
-      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.
-recon nmap found one port,80
-┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
+      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.&#xA;recon nmap found one port,80&#xA;┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
     </item>
-    
     <item>
       <title>Try Hack Me - IDE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ide-writeup/</link>
       <pubDate>Fri, 15 Sep 2023 20:25:26 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/try-hack-me-ide-writeup/</guid>
-      <description>Hi, There, I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.
-Recon nmap got 4 ports, 21,22,80,62337
-┌──(kali㉿kali)-[~] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.106.60 [sudo] password for kali: Starting Nmap 7.93 ( https://nmap.org ) at 2023-09-14 17:40 EAT Nmap scan report for 10.</description>
+      <description>Hi, There, I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.&#xA;Recon nmap got 4 ports, 21,22,80,62337&#xA;┌──(kali㉿kali)-[~] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.106.60 [sudo] password for kali: Starting Nmap 7.93 ( https://nmap.org ) at 2023-09-14 17:40 EAT Nmap scan report for 10.</description>
     </item>
-    
     <item>
       <title>NahamCon CTF 2023 Writeups - Android Mobile</title>
       <link>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</link>
       <pubDate>Sat, 17 Jun 2023 21:43:38 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</guid>
-      <description>Hi I participated in the NahamCon CTF 2023 and dedicated some time over the weekend to solve several interesting questions. Here, I would like to share a few of the intriguing questions that I was able to solve
-Android | Mobile JNInjaspeak We are all very familiar with Leetspeak, can you crack the code on how JNInjaspeak works
-walkthrough : its android App, open it , type a word, it get converted into special characters</description>
+      <description>Hi I participated in the NahamCon CTF 2023 and dedicated some time over the weekend to solve several interesting questions. Here, I would like to share a few of the intriguing questions that I was able to solve&#xA;Android | Mobile JNInjaspeak We are all very familiar with Leetspeak, can you crack the code on how JNInjaspeak works&#xA;walkthrough : its android App, open it , type a word, it get converted into special characters</description>
     </item>
-    
     <item>
       <title>UNODC Digital Forensic - Africa Writeup [ Android - Week One]</title>
       <link>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:00 +0700</pubDate>
-      
       <guid>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</guid>
-      <description>Hi, today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME
-here we go
-HashPotatos - (2 pts) What is the SHA256 hash of the compressed Android data? answer: aeb95fe9ed2dabefef786c3dc620b0cd92255476c7a9be01049cb05d995a39f9
-walkthrough : using sha256sum
-EZTZ (5 pts) What time zone was the phone set to?</description>
+      <description>Hi, today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME&#xA;here we go&#xA;HashPotatos - (2 pts) What is the SHA256 hash of the compressed Android data? answer: aeb95fe9ed2dabefef786c3dc620b0cd92255476c7a9be01049cb05d995a39f9&#xA;walkthrough : using sha256sum&#xA;EZTZ (5 pts) What time zone was the phone set to?</description>
     </item>
-    
     <item>
       <title>Hi World</title>
       <link>https://peterlymo.com/posts/hello/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://peterlymo.com/posts/hello/</guid>
       <description>its Now or NEVER</description>
     </item>
-    
   </channel>
 </rss>

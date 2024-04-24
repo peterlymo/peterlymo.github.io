@@ -4,30 +4,23 @@
     <title>THM on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/tags/thm/</link>
     <description>Recent content in THM on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate>
+    <atom:link href="https://peterlymo.com/tags/thm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Try Hack Me - IGNITE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
       <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</guid>
-      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.
-recon nmap found one port,80
-┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
+      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.&#xA;recon nmap found one port,80&#xA;┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
     </item>
-    
     <item>
       <title>Try Hack Me - IDE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ide-writeup/</link>
       <pubDate>Fri, 15 Sep 2023 20:25:26 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/try-hack-me-ide-writeup/</guid>
-      <description>Hi, There, I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.
-Recon nmap got 4 ports, 21,22,80,62337
-┌──(kali㉿kali)-[~] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.106.60 [sudo] password for kali: Starting Nmap 7.93 ( https://nmap.org ) at 2023-09-14 17:40 EAT Nmap scan report for 10.</description>
+      <description>Hi, There, I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.&#xA;Recon nmap got 4 ports, 21,22,80,62337&#xA;┌──(kali㉿kali)-[~] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.106.60 [sudo] password for kali: Starting Nmap 7.93 ( https://nmap.org ) at 2023-09-14 17:40 EAT Nmap scan report for 10.</description>
     </item>
-    
   </channel>
 </rss>

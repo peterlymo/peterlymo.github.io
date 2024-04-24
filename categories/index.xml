@@ -4,7 +4,8 @@
     <title>Categories on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/categories/</link>
     <description>Recent content in Categories on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://peterlymo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://peterlymo.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

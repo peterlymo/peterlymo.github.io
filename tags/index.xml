@@ -4,98 +4,79 @@
     <title>Tags on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/tags/</link>
     <description>Recent content in Tags on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 18:25:38 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Sep 2023 18:25:38 +0300</lastBuildDate>
+    <atom:link href="https://peterlymo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Africa</title>
       <link>https://peterlymo.com/tags/africa/</link>
-      <pubDate>Mon, 25 Sep 2023 18:25:38 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/africa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CTF</title>
       <link>https://peterlymo.com/tags/ctf/</link>
-      <pubDate>Mon, 25 Sep 2023 18:25:38 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/ctf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Pyjail</title>
       <link>https://peterlymo.com/tags/pyjail/</link>
-      <pubDate>Mon, 25 Sep 2023 18:25:38 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/pyjail/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux</title>
       <link>https://peterlymo.com/tags/linux/</link>
-      <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ruby</title>
+      <title>Ruby</title>
       <link>https://peterlymo.com/tags/ruby/</link>
-      <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/ruby/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>THM</title>
       <link>https://peterlymo.com/tags/thm/</link>
-      <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/thm/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>writeup</title>
+      <title>Writeup</title>
       <link>https://peterlymo.com/tags/writeup/</link>
-      <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/writeup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vsftp</title>
+      <title>Vsftp</title>
       <link>https://peterlymo.com/tags/vsftp/</link>
-      <pubDate>Fri, 15 Sep 2023 20:25:26 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/vsftp/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Android</title>
       <link>https://peterlymo.com/tags/android/</link>
-      <pubDate>Sat, 17 Jun 2023 21:43:38 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/android/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>forensic</title>
+      <title>Forensic</title>
       <link>https://peterlymo.com/tags/forensic/</link>
-      <pubDate>Sat, 17 Jun 2023 21:43:38 +0300</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://peterlymo.com/tags/forensic/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

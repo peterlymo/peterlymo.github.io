@@ -1,57 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>writeup on Peter Lymo&#39;s Blog</title>
+    <title>Writeup on Peter Lymo&#39;s Blog</title>
     <link>https://peterlymo.com/tags/writeup/</link>
-    <description>Recent content in writeup on Peter Lymo&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Writeup on Peter Lymo&#39;s Blog</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate><atom:link href="https://peterlymo.com/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 20:54:55 +0300</lastBuildDate>
+    <atom:link href="https://peterlymo.com/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Try Hack Me - IGNITE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</link>
       <pubDate>Sat, 16 Sep 2023 20:54:55 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/try-hack-me-ignite-writeup/</guid>
-      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.
-recon nmap found one port,80
-┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
+      <description>Hi, There, I got free time to solve a easy box from try hack me, this box its actually easy one, it consist exploiting a content management system(CMS) so called fuelCMS which was vulnerable with code execution, and rooted with password reuse.&#xA;recon nmap found one port,80&#xA;┌──(kali㉿kali)-[~/thm/ignite] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.138.76 [sudo] password for kali: Starting Nmap 7.94 ( https://nmap.org ) at 2023-09-16 19:19 EAT Nmap scan report for 10.</description>
     </item>
-    
     <item>
       <title>Try Hack Me - IDE Writeup</title>
       <link>https://peterlymo.com/posts/try-hack-me-ide-writeup/</link>
       <pubDate>Fri, 15 Sep 2023 20:25:26 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/try-hack-me-ide-writeup/</guid>
-      <description>Hi, There, I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.
-Recon nmap got 4 ports, 21,22,80,62337
-┌──(kali㉿kali)-[~] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.106.60 [sudo] password for kali: Starting Nmap 7.93 ( https://nmap.org ) at 2023-09-14 17:40 EAT Nmap scan report for 10.</description>
+      <description>Hi, There, I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.&#xA;Recon nmap got 4 ports, 21,22,80,62337&#xA;┌──(kali㉿kali)-[~] └─$ sudo nmap -p- --open -sV -A -n -Pn 10.10.106.60 [sudo] password for kali: Starting Nmap 7.93 ( https://nmap.org ) at 2023-09-14 17:40 EAT Nmap scan report for 10.</description>
     </item>
-    
     <item>
       <title>NahamCon CTF 2023 Writeups - Android Mobile</title>
       <link>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</link>
       <pubDate>Sat, 17 Jun 2023 21:43:38 +0300</pubDate>
-      
       <guid>https://peterlymo.com/posts/nahamcon-ctf-2023-writeups/</guid>
-      <description>Hi I participated in the NahamCon CTF 2023 and dedicated some time over the weekend to solve several interesting questions. Here, I would like to share a few of the intriguing questions that I was able to solve
-Android | Mobile JNInjaspeak We are all very familiar with Leetspeak, can you crack the code on how JNInjaspeak works
-walkthrough : its android App, open it , type a word, it get converted into special characters</description>
+      <description>Hi I participated in the NahamCon CTF 2023 and dedicated some time over the weekend to solve several interesting questions. Here, I would like to share a few of the intriguing questions that I was able to solve&#xA;Android | Mobile JNInjaspeak We are all very familiar with Leetspeak, can you crack the code on how JNInjaspeak works&#xA;walkthrough : its android App, open it , type a word, it get converted into special characters</description>
     </item>
-    
     <item>
       <title>UNODC Digital Forensic - Africa Writeup [ Android - Week One]</title>
       <link>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</link>
       <pubDate>Sat, 18 Mar 2023 21:10:00 +0700</pubDate>
-      
       <guid>https://peterlymo.com/posts/unodc-2023-digital-forensic-writeups/</guid>
-      <description>Hi, today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME
-here we go
-HashPotatos - (2 pts) What is the SHA256 hash of the compressed Android data? answer: aeb95fe9ed2dabefef786c3dc620b0cd92255476c7a9be01049cb05d995a39f9
-walkthrough : using sha256sum
-EZTZ (5 pts) What time zone was the phone set to?</description>
+      <description>Hi, today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME&#xA;here we go&#xA;HashPotatos - (2 pts) What is the SHA256 hash of the compressed Android data? answer: aeb95fe9ed2dabefef786c3dc620b0cd92255476c7a9be01049cb05d995a39f9&#xA;walkthrough : using sha256sum&#xA;EZTZ (5 pts) What time zone was the phone set to?</description>
     </item>
-    
   </channel>
 </rss>
