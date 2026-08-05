@@ -6,7 +6,6 @@ author: "Peter Lymo"
 showToc: true
 description: "Africa Digital Forensic Competition"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableHLJS: false
 searchHidden: true
 ShowReadingTime: true
@@ -24,7 +23,7 @@ images: ["img/post-cover.png"]
 ---
 
 **Hi**,
-today am going to show you i solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME
+today am going to show you I solved a week one of Africa Digital forensic Competiton powered by United Nations Office on Drugs and Crime (UNODC) which is third time now under their programme called GLOBAL PROGRAMME on CYBER CRIME
 
 here we go 
 
@@ -84,7 +83,7 @@ What user is the first listed in the suspect's kik chat list?
 answer: **thisisdfirtwo_dm7**
 
 **walkthrough :**
-under /data/data/kik.android/databases i exported the whole folder and look for kikDatabase.db
+under /data/data/kik.android/databases I exported the whole folder and look for kikDatabase.db
 
 ![img](img/q6.png)
 
@@ -111,7 +110,7 @@ answer: **Raleigh**
 
 
 **walkthrough :**
-this about looking suspicious content like pictures, and i looked at /data/media/0/DCIM/Camera and found about concert pictures, so i just checked its metadata and found the city
+this about looking suspicious content like pictures, and I looked at /data/media/0/DCIM/Camera and found about concert pictures, so I just checked its metadata and found the city
 ![img](img/q8.png)
 
 ---
@@ -122,7 +121,7 @@ What is Thom De'Fer's WhatsApp ID?
 answer : 19198027080@s.whatsapp.net
 
 **walkthrough :**
-this about whatsapp Data so i looked on whatsapp database file
+this about whatsapp Data so I looked on whatsapp database file
 open /data/data/com.whatsapp/databases/wa.db
 
 ![img](img/q10.png)
@@ -215,7 +214,7 @@ What was the last social media app to be installed on the suspects phone?
 answer: **truthsocial**
 
 **walkthrough :**
-using ALEAPP in installed App i can see latest social APP installed was Truth Social
+using ALEAPP in installed App I can see latest social APP installed was Truth Social
 
 ![img](img/q17.png)
 
@@ -257,7 +256,7 @@ What IP address was the suspect using on 2022-08-16?
 answer : **172.102.15.75**
 
 **walkthrough :**
-after some search i just found this message under Line app it says my account is used in another devices , luckly they collected IP adress and that was an answer, i used ALEAPP for this under Line -Messages tab
+after some search I just found this message under Line app it says my account is used in another devices , luckly they collected IP adress and that was an answer, I used ALEAPP for this under Line -Messages tab
 
 ![img](img/q20.png)
 
@@ -268,10 +267,10 @@ after some search i just found this message under Line app it says my account is
 How much higher is Pac Man than the street?
 answer : **6.8**
 
-this was painful question i had no idea how to get but on next week i got hint that i should look on altitude , so that comes in mind that i should check pictures altitude, but how? here what i i did with try and error
+this was painful question I had no idea how to get but on next week I got hint that I should look on altitude , so that comes in mind that I should check pictures altitude, but how? here what I I did with try and error
 
 **walkthough**
-first : i checked a pacman picture altitude
+first : I checked a pacman picture altitude
 
 ![img](img/q21.png)
 
@@ -284,11 +283,11 @@ GPS Altitude Ref                : Above Sea Level
 GPS Altitude                    : 128.1 m Above Sea Level
 ```
 
-enter 128.1 as answer : **i got incorrect**
+enter 128.1 as answer : **I got incorrect**
 
 step 2 : from question "How much higher is Pac Man than the street?" well that means its their different from pacman to street but how? substitute a altitude ?
 
-so i assumed the street is from this pic since it show outside
+so I assumed the street is from this pic since it show outside
 
 ![img](img/q22.png)
 
@@ -309,7 +308,7 @@ enter 6.9 as answer : **got incorrect again**
 
 what now bruteforce? no way
 
-step 3 : back to question again , now there other pics look like conference room maybe i should check them from there to the street, which is below
+step 3 : back to question again , now there other pics look like conference room maybe I should check them from there to the street, which is below
 
 ![img](img/q23.png)
 
@@ -336,7 +335,7 @@ Who did [ThisIsDFIRTwo@protonmail.com](mailto:ThisIsDFIRTwo@protonmail.com) rece
 answer : thisisdfir@protonmail.com
 
 **walkthrough :**
-i just checked on proton email and i found this email adress and that was answer
+I just checked on proton email and I found this email adress and that was answer
 and because  it is the only account suspicious he was sending and receiving message in protonmail
 
 ![img](img/q24.png)
@@ -353,7 +352,7 @@ answer :  **infosec.exchange**
 
 **walkthrough :**
 Took so long too on this question,
-but after time i looked on mastodon timeline i found the same pic ad above
+but after time I looked on mastodon timeline I found the same pic ad above
 
 ![img](img/q25.png)
 
@@ -366,7 +365,7 @@ since its **mastodon** a alias name of **infosec.exchange** the answer is **info
 
 ## final for week one
 
-i have learnt alot about Android Forensic on this week, thanks to joshua and UNODC team for this competition
+I have learnt alot about Android Forensic on this week, thanks to joshua and UNODC team for this competition
 
 week Two - iphone Forensic soon ..
 

@@ -1,6 +1,7 @@
 baseURL: "https://peterlymo.com/"
 title: Peter Lymo's Blog
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -74,7 +75,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my Peter Lymo(malwarepeter)'s blog, I will be sharing posts about cyber security, also i am bug bounty hunter and security researcher if you are interested please hit my email  peterlymo@gmail.com
+    Content: Welcome to my Peter Lymo(malwarepeter)'s blog, I will be sharing posts about cyber security, also I am a bug bounty hunter and security researcher if you are interested please hit my email  peterlymo@gmail.com
 
   socialIcons:
     - name: twitter

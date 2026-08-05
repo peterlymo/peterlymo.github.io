@@ -6,7 +6,6 @@ author: "Peter Lymo"
 showToc: true
 description: "Cyber Olympics Africa Pyjails Writeup"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableHLJS: false
 searchHidden: true
 ShowReadingTime: true
@@ -20,7 +19,7 @@ images: ["img/Cyberlympics-Logo-For-Google.jpg]"]
 
 ![img1](img/Cyberlympics-Logo-For-Google.jpg)
 
-Hi, on weekend i got time participate for Cyber Olympics Africa, which is continental annual competition that designed to address the cybersecurity skills gap and digital divide that persist in Africa, while helping the continent grow its status as an emerging technology hub.We ended up in the top 10 and are now prepared for the final.
+Hi, on weekend I got time participate for Cyber Olympics Africa, which is continental annual competition that designed to address the cybersecurity skills gap and digital divide that persist in Africa, while helping the continent grow its status as an emerging technology hub.We ended up in the top 10 and are now prepared for the final.
 
 ## Jail Break
 
@@ -42,7 +41,7 @@ Execution successful.
 >>>
 ```
 
-i executed print("hi,lymo") and i was abble do se an output, that means we can use some functions to interact with provided shell
+I executed print("hi,lymo") and I was abble do se an output, that means we can use some functions to interact with provided shell
 
 ### exploiting
 
@@ -73,7 +72,7 @@ __build_class__', '__debug__', '__doc__', '__import__', '__loader__', '__name__'
 Execution successful.
 ```
 
-well there a lot of interested attributes, functions and module but i was looking for `__import__` which is function used to import python module, now lets see how we can use it 
+well there a lot of interested attributes, functions and module but I was looking for `__import__` which is function used to import python module, now lets see how we can use it 
 
 the usage of `__import__` is
 
@@ -210,7 +209,7 @@ Oops! Something unexpected happened: name '__import__' is not defined
 
 ```
 
-seems `__import__` is blocked and others, so i suffered for this challenge, and final i got idea of using tuple, after reading and reading 
+seems `__import__` is blocked and others, so I suffered for this challenge, and final I got idea of using tuple, after reading and reading 
 
 > **_NOTE:_**  
 with built-ins names disabled, () is still an object literal they can use to gain access to most of them
@@ -399,7 +398,7 @@ Let me tell you a secret, There is a flag here!
 
 ### exploiting
 
-i noticed there two type of feedback we get
+I noticed there two type of feedback we get
 
 this when things go correct but seems there filter here
 ```
@@ -426,13 +425,13 @@ Let me tell you a secret, There is a flag here!
 >>
 ```
 
-i got Exception which i know because its a syntax error
+I got Exception which I know because its a syntax error
 lets try
 ```
 import os
 ```
 
-well i got new Exception message
+well I got new Exception message
 
 ```
 >> import os
@@ -441,7 +440,7 @@ The quieter you become, The more you are able to hear
 
 the message tryna give us hint refer "quieter" by using common sense
 
-i had to google how to escape with quit
+I had to google how to escape with quit
 
 tried
 ```
@@ -510,7 +509,7 @@ Let me tell you a secret, There is a flag here!
 well as you notice, only output of `'tanzania'` returned without `str` that means  `str` executed but since it returned string which will raise an error to int, so output will be displayed,
 
 we will inject payload to read `flag.txt` since result from `flag.txt` is `String` then will raise as error and flag will be displayed in error Exception of `int`
-i used this payload
+I used this payload
 
 ```
 quit(int(().__class__.__base__.__subclasses__()[40]("flag.txt","r").read()))
@@ -521,7 +520,7 @@ quit(int(().__class__.__base__.__subclasses__()[40]("flag.txt","r").read()))
 bingo!!!, we got flag
 This challenge was actually quite difficult for me, so I decided to take a break and return later with only 30 minutes left until the competition ended. It turned out to be a stroke of luck, haha!
 
-i submitted flag when 1 sec remained
+I submitted flag when 1 sec remained
 
 ![img1](img/final.png)
 

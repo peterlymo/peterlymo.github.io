@@ -6,7 +6,6 @@ author: "Peter Lymo"
 showToc: true
 description: "NahamCon CTF 2023 Competition"
 canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
 disableHLJS: false
 searchHidden: true
 ShowReadingTime: true
@@ -49,7 +48,7 @@ found this on bottom
 ```
 JNI is the Java Native Interface; means it use some of c++ or c,well must have a binary somewhere
 
-i decided to check on my android data folder and pull
+I decided to check on my android data folder and pull
 
 ```bash
 adb pull /data/data/com.nahamcon2023.jninjaspeak/lib/libjninjaspeak.so .
@@ -172,7 +171,7 @@ under Decrypt class you can see crucial method , it took encrypted file under ra
 
 well so if we know the key, we can go our way since we also have encypted file
 
-under MainActivity,i  noticed this line
+under MainActivity,I  noticed this line
 
 ```
 Log.w("KEY", getKey());
