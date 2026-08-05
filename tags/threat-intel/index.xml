@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Threat Intel on Peter Lymo&#39;s Blog</title>
+    <link>https://peterlymo.com/tags/threat-intel/</link>
+    <description>Recent content in Threat Intel on Peter Lymo&#39;s Blog</description>
+    <image>
+      <title>Peter Lymo&#39;s Blog</title>
+      <url>https://peterlymo.com/img/post-cover.png</url>
+      <link>https://peterlymo.com/img/post-cover.png</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Aug 2026 10:00:00 +0300</lastBuildDate>
+    <atom:link href="https://peterlymo.com/tags/threat-intel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fake AD Tool That Installs Its Own Root CA</title>
+      <link>https://peterlymo.com/posts/fake-ad-tool-rogue-root-ca/</link>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 +0300</pubDate>
+      <guid>https://peterlymo.com/posts/fake-ad-tool-rogue-root-ca/</guid>
+      <description>A free Active Directory utility that works exactly as advertised - while dropping a counterfeit Microsoft root certificate into the trusted store in the first second of execution.</description>
+    </item>
+  </channel>
+</rss>
